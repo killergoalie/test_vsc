@@ -1,0 +1,8 @@
+---
+- host: all
+
+- task:
+  - name: this is just a test
+  - shell: whoami
+
+#I know this is wrong my brain is broken at 0127 hehehe  
